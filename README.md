@@ -1,1 +1,3 @@
-# aanimemangatoon-backend
+animemangatoon-backend
+
+#Run : node server.js
